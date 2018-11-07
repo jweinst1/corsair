@@ -8,5 +8,5 @@
 add_definitions()
 
 add_library(coretypes OBJECT
-      
+     corsair_bool.c    
 )
